@@ -44,13 +44,13 @@ export default function AboutPage() {
             marginBottom: '16px',
           }}
         >
-          Hi, I'm [Your Name] — a full-stack developer based in [Your City]. I build web
+          Hi, I&apos;m Beuce Wayne &mdash; a full-stack developer based in Durgapur. I build web
           applications with a focus on clean code, good performance, and user experience that
           actually makes sense.
         </p>
         <p style={{ fontSize: '16px', color: '#9A9896', lineHeight: 1.8, maxWidth: '600px' }}>
-          I've been writing code for [X] years. I started with [first language], and now I mostly
-          work with TypeScript, React, and Node.js.
+          I&apos;ve been writing code for 5 months. I started with c & java, and now I mostly work
+          with TypeScript, React, and Node.js.
         </p>
       </section>
 
@@ -177,7 +177,7 @@ export default function AboutPage() {
           Currently exploring
         </h2>
         <p style={{ fontSize: '15px', color: '#9A9896', lineHeight: 1.7 }}>
-          Right now I'm diving into Rust for systems programming, and learning more about
+          Right now I&apos;m diving into Rust for systems programming, and learning more about
           distributed systems. Also reading <em>Designing Data-Intensive Applications</em>.
         </p>
       </section>
