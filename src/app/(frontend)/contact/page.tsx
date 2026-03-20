@@ -102,7 +102,7 @@ export default function ContactPage() {
                 Message sent!
               </div>
               <div style={{ fontSize: '14px', color: '#9A9896' }}>
-                I'll get back to you within 48 hours.
+                I&apos;ll get back to you within 48 hours.
               </div>
             </div>
           ) : (
